@@ -1,3 +1,5 @@
+The project is hosted at: https://netflix-clone-19bf3.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
